@@ -21,7 +21,7 @@ As rotas estão disponíveis na coleção do Postman disponibilizada, que pode s
 Este é um teste de API básico, desenvolvido usando o Laravel Sail, para listar, adicionar e atualizar informações relacionadas a cidades, médicos e pacientes. 
 Sinta-se à vontade para testar e explorar os diferentes endpoints disponíveis.
 
-Se você tiver alguma dúvida ou precisar de assistência adicional, por favor, entre em contato. Espero que aproveite o teste!
+Se você tiver alguma dúvida ou precisar de assistência adicional, por favor, entre em contato.
 
 Agradeço a oportunidade.
 *Att: Fernando Netto*
